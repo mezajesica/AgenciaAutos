@@ -82,7 +82,7 @@ nav li a:hover {
 }
 
 aside a {
-    /* font-size: 18px; */
+    font-size: 18px;
     line-height: 35px;
     text-decoration: none;
     color: white;
