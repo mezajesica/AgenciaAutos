@@ -71,6 +71,7 @@ nav li a:hover {
 }
 
 .cuerpo .aside {
+    font-size: 18px;
     float: right;
     position: sticky;
     top: 0;
